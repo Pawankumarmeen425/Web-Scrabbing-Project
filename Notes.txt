@@ -1,0 +1,7 @@
+ls -->> gives list of divectry persent in the current directory
+git clone -->> github clone
+cd folder name -- use to change directory
+
+
+pip install -r requirenment.txt 
+// install all the requirenment environment
